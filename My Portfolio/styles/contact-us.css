@@ -1,0 +1,489 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.contact-us-tT6 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #242424;
+}
+.contact-us-tT6 .frame-4-KYQ {
+  box-sizing: border-box;
+  padding: 4.7rem 3.5rem 4.6rem 7.3rem;
+  width: 100%;
+  height: 16.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #1b1b1b;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .frame-4-KYQ .darshan-ongari-ttL {
+  margin: 0rem 7.6rem 1.1rem 0rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .frame-4-KYQ .home-uoS {
+  margin-right: 2.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .about-15n {
+  margin-right: 2.7rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .skills-4pk {
+  margin-right: 2.6rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .projects-9bJ {
+  margin-right: 2.6rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .services-4yA {
+  margin-right: 2.7rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .partners-NU4 {
+  margin-right: 2.5rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .testimonials-hFS {
+  margin-right: 2.5rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .auto-group-ycmr-RBS {
+  width: 20.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .frame-4-KYQ .auto-group-ycmr-RBS .get-in-touch-2S8 {
+  width: 14.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.05rem;
+  top: 2.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.contact-us-tT6 .frame-4-KYQ .auto-group-ycmr-RBS .vector-Hsr {
+  width: 20.9rem;
+  height: 7.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-us-tT6 .auto-group-alng-n3v {
+  width: 100%;
+  height: 96.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W {
+  box-sizing: border-box;
+  padding: 3.45rem 8.3rem 2.35rem 3.7rem;
+  width: 151.2rem;
+  height: 21.8rem;
+  position: absolute;
+  left: 0;
+  top: 74.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #3b3b3b;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .darshan-ongari-cYk {
+  margin: 0rem 15.2rem 2.4rem 0rem;
+  max-width: 25.5rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Lemon, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .darshan-ongari-cYk .darshan-ongari-cYk-sub-0 {
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .darshan-ongari-cYk .darshan-ongari-cYk-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.24rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma {
+  margin-right: 8.1rem;
+  width: 66.2rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ie8t-Usn {
+  margin: 0rem 15.5rem 0.85rem 3.1rem;
+  width: calc(100% - 18.6rem);
+  display: flex;
+  align-items: center;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ie8t-Usn .follow-us-Con {
+  margin-right: 19.5rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ie8t-Usn .mail-us-yrU {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ixag-WbW {
+  margin: 0rem 0rem 4.35rem 5.433rem;
+  display: flex;
+  align-items: center;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ixag-WbW .instagram-black-3bS {
+  margin: 0rem 3.323rem 0rem 0rem;
+  width: 3.3333rem;
+  height: 3.3333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ixag-WbW .social-media-logos-Ms2 {
+  margin-right: 21.9103rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .auto-group-ixag-WbW .darshanongarigmailcom-VyE {
+  margin-top: 0.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-jwya-Lma .copyright-2024-darshan-ongari-all-rights-reserved-RM6 {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-oc9s-KSU {
+  margin-bottom: 7.35rem;
+  width: 24.2rem;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-oc9s-KSU .make-a-call-eUk {
+  margin: 0rem 0rem 1.75rem 1.4rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-oc9s-KSU .auto-group-smmv-hhv {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-oc9s-KSU .auto-group-smmv-hhv .smartphone-FUY {
+  margin-right: 0.9rem;
+  width: 2.7rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .frame-1-X1W .auto-group-oc9s-KSU .auto-group-smmv-hhv .item-91-123-456-7890-aWp {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.contact-us-tT6 .auto-group-alng-n3v .rectangle-15-gpk {
+  width: 151.2rem;
+  height: 96.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.contact-us-tT6 .auto-group-alng-n3v .lets-connect-zqS {
+  width: 53rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 14rem;
+  top: 8.3rem;
+  display: flex;
+  font-size: 7.8rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: 0.39rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-tT6 .auto-group-alng-n3v .rectangle-21-G2G {
+  width: 60.7rem;
+  height: 42.1rem;
+  position: absolute;
+  left: 81.5rem;
+  top: 18.8rem;
+  box-shadow: 0 0.5rem 3rem rgba(0, 0, 0, 0.7599999905);
+  background-color: #3b3b3b;
+}
+.contact-us-tT6 .auto-group-alng-n3v .item-91-635-316-1356-Dbi {
+  width: 37.6rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 24.5rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-tT6 .auto-group-alng-n3v .smartphone-J7N {
+  width: 5rem;
+  height: 5.5556rem;
+  position: absolute;
+  left: 16.9rem;
+  top: 24.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-us-tT6 .auto-group-alng-n3v .darshanongarigmailcom-qNC {
+  width: 37.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 35.25rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-tT6 .auto-group-alng-n3v .your-name-Lpk {
+  width: 55rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 85.3rem;
+  top: 21.2rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+
+}
+#yourname {
+  width: 55rem;
+  margin-right: 5px;
+  background-color: #3B3B3B;
+  font-size: 5rem;
+  color: #ffffff;
+  
+}
+#yourname::placeholder{
+  color: #ffffff;
+} 
+#tx{
+  width: 50rem;
+  background-color: #3B3B3B;
+  margin-right: 5px;
+  background-color: #3B3B3B;
+  font-size: 5rem;
+  color: #ffffff;
+}
+#tx::placeholder{
+  color: #ffffff;
+  font-size: 5rem;
+  padding-right: 5rem;
+  text-align: left;
+}
+.contact-us-tT6 .auto-group-alng-n3v .line-3-T8g {
+  width: 56.1rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 84rem;
+  top: 28.3983rem;
+  background-color: #ffffff;
+}
+.contact-us-tT6 .auto-group-alng-n3v .your-email-NWY {
+  width: 24.6rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 85.3rem;
+  top: 30.2rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-us-tT6 .auto-group-alng-n3v .line-3-HNc {
+  width: 56.1rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 84rem;
+  top: 39.9rem;
+  background-color: #ffffff;
+}
+.contact-us-tT6 .auto-group-alng-n3v .your-message-oLx {
+  width: 55rem;
+  height: 15rem;
+  position: absolute;
+  left: 85.3rem;
+  top: 40.5rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}

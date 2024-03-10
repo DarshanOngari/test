@@ -1,0 +1,482 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.home-UKN {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.home-UKN .auto-group-ak9n-n5A {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #222124;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep {
+  box-sizing: border-box;
+  padding: 4.7rem 3.5rem 4.6rem 7.3rem;
+  width: 100%;
+  height: 16.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #232124;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .darshan-ongari-qp8 {
+  margin: 0rem 7.6rem 1.1rem 0rem;
+  font-size: 2.8rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: 0.14rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .home-uJC {
+  margin-right: 2.9rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .about-bwi {
+  margin-right: 2.7rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .skills-XqN {
+  margin-right: 2.6rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .projects-TDE {
+  margin-right: 2.6rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .services-xfn {
+  margin-right: 2.7rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .partners-h7a {
+  margin-right: 2.5rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .testimonials-E7W {
+  margin-right: 2.5rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: rgba(255, 255, 255, 0.6999999881);
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .auto-group-gdpq-ZQg {
+  width: 20.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .auto-group-gdpq-ZQg .get-in-touch-VJL {
+  width: 14.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.05rem;
+  top: 2.1rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  text-decoration: none;
+}
+.home-UKN .auto-group-ak9n-n5A .frame-5-8ep .auto-group-gdpq-ZQg .vector-wAL {
+  width: 20.9rem;
+  height: 7.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx {
+  box-sizing: border-box;
+  padding: 10.3rem 11.6rem 3.2rem 17rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN {
+  margin-bottom: 12.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .auto-group-hisq-siC {
+  margin-right: 23rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .auto-group-hisq-siC .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6 {
+  margin: 0rem 0rem 8.55rem 2.2rem;
+  max-width: 41.7rem;
+  display: flex;
+  font-size: 7.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.39rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .auto-group-hisq-siC .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6 .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6-sub-0 {
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .auto-group-hisq-siC .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6 .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.39rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .auto-group-hisq-siC .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6 .helloim-a-darshan-ongari-pursuing-btechit-from-silver-oak-university-2b6-sub-2 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.39rem;
+  color: rgba(255, 255, 255, 0.8000000119);
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .auto-group-hisq-siC .auto-group-8tun-d72 {
+  width: 34.5rem;
+  height: 9rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #d150ff;
+  box-sizing: border-box;
+  background-color: #232124;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-vb6t-LTN .png-clipart-business-man-work-people-computer-removebg-preview-1-g5J {
+  margin-bottom: 5.9rem;
+  width: 55.7rem;
+  height: 44.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-llig-GpC {
+  margin: 0rem 9.75rem 0rem 15.9rem;
+  width: calc(100% - 25.65rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-llig-GpC .web-developer-b5n {
+  margin: 0rem 1.85rem 0.3rem 0rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-llig-GpC .line-1-u6U {
+  margin-right: 2rem;
+  width: 0;
+  height: 4.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-llig-GpC .graphics-designer-ScC {
+  margin: 0rem 1.75rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-llig-GpC .line-2-wYx {
+  margin-right: 3.45rem;
+  width: 0;
+  height: 4.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-UKN .auto-group-ak9n-n5A .auto-group-7n4t-dYx .auto-group-llig-GpC .ui-ux-designer-J8c {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.18rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn {
+  width: 100%;
+  height: 21.8rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #3b3b3b;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY {
+  width: 66.2rem;
+  height: 16rem;
+  position: absolute;
+  left: 44.4rem;
+  top: 3.45rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .auto-group-2qr2-daC {
+  margin: 0rem 15.5rem 0.85rem 3.1rem;
+  width: calc(100% - 18.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .auto-group-2qr2-daC .follow-us-ZTr {
+  margin-right: 19.5rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .auto-group-2qr2-daC .mail-us-4Qc {
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .auto-group-jkjn-nbW {
+  margin: 0rem 0rem 4.35rem 12.09rem;
+  width: calc(100% - 12.0898rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .auto-group-jkjn-nbW .social-media-logos-X3J {
+  margin-right: 21.9102rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .auto-group-jkjn-nbW .darshanongarigmailcom-Fzt {
+  margin-top: 0.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-6svt-hgY .copyright-2024-darshan-ongari-all-rights-reserved-Ac4 {
+  margin-right: 4.1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.12rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-ft8q-dkY {
+  width: 24.2rem;
+  height: 8.65rem;
+  position: absolute;
+  left: 118.7rem;
+  top: 3.45rem;
+}
+.home-UKN .frame-1-MMn .auto-group-ft8q-dkY .make-a-call-k4U {
+  margin: 0rem 0rem 1.75rem 1.4rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.16rem;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-UKN .frame-1-MMn .auto-group-ft8q-dkY .auto-group-q19v-rtC {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.home-UKN .frame-1-MMn .auto-group-ft8q-dkY .auto-group-q19v-rtC .smartphone-2Gt {
+  margin-right: 0.9rem;
+  width: 2.7rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .auto-group-ft8q-dkY .auto-group-q19v-rtC .item-91-123-456-7890-A8C {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-UKN .frame-1-MMn .darshan-ongari-t4C {
+  width: 25.5rem;
+  height: 12.1rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 4.2rem;
+  display: flex;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.3075;
+  letter-spacing: 0.24rem;
+  color: #ffffff;
+  font-family: Lemon, 'Source Sans Pro';
+}
+.home-UKN .frame-1-MMn .darshan-ongari-t4C .darshan-ongari-t4C-sub-0 {
+}
+.home-UKN .frame-1-MMn .darshan-ongari-t4C .darshan-ongari-t4C-sub-1 {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.24rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+}
+.home-UKN .frame-1-MMn .instagram-black-Sjv {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 49.5rem;
+  top: 8.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
